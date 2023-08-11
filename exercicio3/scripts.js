@@ -1,3 +1,4 @@
+// document.querySelector('button').addEventListener('click', somar);
 function somar(){
     som1 = Number(document.getElementById("som1").value); 
     som2 = Number(document.getElementById("som2").value); 
